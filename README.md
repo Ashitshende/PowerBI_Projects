@@ -7,4 +7,8 @@ The file "FIFA-World Cup Report.pbix" hosts Power BI report for analyzing FIFA W
 ## Project 2:Market_Analysis_Report
 The file "Market_Analysis_Report.pbix" contains Power BI report that provides a market analysis of customer spending on various products offered by the company. It includes visualizations, KPIs, and insights based on customer attributes and product categories. The report also examines customer purchase behavior across different platforms and campaign acceptance rates.
 
-## Project 3:
+## Project 3:Covid_19_Dashboard
+This repository contains a Power BI dashboard showcasing COVID-19 data, including confirmed cases, deaths, and recoveries. The dashboard utilizes a new territory table as a fact table and introduces custom measures such as recovery rate, death rate, and total confirmed cases. Additionally, it includes a table highlighting the top 5 countries in terms of recovery and death, as well as a bubble map visualizing deaths across different countries and regions.
+
+## How to Use: 
+Simply download the projects ,open in PowerBI Desktop and interact with the visualizations. Use the filters and slicers to narrow down the data based on your specific requirements. Hover over the charts to view detailed information, and click on different elements to drill down for more granular insights. Export or share the visualizations or the entire dashboard to collaborate and communicate sales performance effectively.
